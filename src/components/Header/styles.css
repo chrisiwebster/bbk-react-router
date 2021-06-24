@@ -1,0 +1,17 @@
+header {
+  min-height: 30vh;
+  margin-bottom: 1em;
+  background: grey;
+  color: white;
+}
+
+header h1 {
+  letter-spacing: 0.35em;
+  padding: 2em 2em 0 2em;
+  margin-bottom: 0.5em;
+}
+
+header p {
+  margin-left: 4em;
+}
+

@@ -1,0 +1,26 @@
+nav {
+  background-color: burlywood;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 1em;
+}
+
+nav li {
+  list-style-type: none;
+  letter-spacing: 0.1em;
+  font-size: 1.25em;
+
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+}
+
+li a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
